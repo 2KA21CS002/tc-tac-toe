@@ -1,4 +1,4 @@
-# tc-tac-toe
+# tic-tac-toe
 This is a game where user can play tic tac toe game
 <!DOCTYPE html>
 <html lang="en">
